@@ -1,1 +1,1 @@
-This is a HTML file about the disappearance of Amelia Earhart and Fred Noonan on July 2, 1937, which compiles evidence that indicates their true fate. Under 'Issues', you can provide your own insights into the disappearance; I would be very grateful for your contributions.
+
