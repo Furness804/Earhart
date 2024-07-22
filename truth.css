@@ -10,3 +10,6 @@
   font-family: Monaco, Verdana, sans-serif, monospace;
   color: navy;
 }
+body {
+  background: gainsboro;
+}
